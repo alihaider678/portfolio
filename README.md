@@ -33,7 +33,7 @@ Developed an advanced Retrieval-Augmented Generation **(RAG)** system using **Am
 
 Designed and developed a multi-functional AI assistant using **Google Gemini API** and **Groq API**, providing users with the ability to switch between Google Gemini and open-source models. Integrated multi-modal inputs, including text, images, audio, video, and documents, to enhance user interaction. Incorporated features like voice response, continuous conversation with chat history, agent-based tasks, and summarization for web pages and YouTube videos, boosting user engagement by 20%.
 
-![Super AI Assistant](/assets/img/Super_AI_Assistant.png)
+![Super AI Assistant](assets/img/Super_AI_Assistant.webp)
 
 ### Face Attendance System
 
