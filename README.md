@@ -27,7 +27,7 @@
 
 Developed an advanced Retrieval-Augmented Generation **(RAG)** system using **Amazon Bedrock** to efficiently extract relevant information from multiple PDFs. Implemented fine-tuning techniques on the language model, which resulted in a 20% improvement in query response accuracy and a 15% reduction in response time by enhancing document retrieval processes.
 
-![Information Retrievel System](/assets/img/Information_retrievel_RAG.png)
+![Information Retrievel System](assets/img/Information_retrievel_RAG.webp)
 
 ### Super AI Assistant App
 
