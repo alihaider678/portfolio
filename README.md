@@ -39,4 +39,4 @@ Designed and developed a multi-functional AI assistant using **Google Gemini API
 
 Created a face recognition-based attendance system using Convolutional Neural Networks (CNNs) for real-time facial detection and recognition, achieving 95% accuracy. Enhanced the system with OpenCV for image preprocessing and integrated it into a secure database, resulting in a 30% improvement in attendance tracking efficiency in live environments.
 
-![Face Attendance System](/assets/img/Face_attendance_System.png)
+![Face Attendance System](assets/img/Face_attendance_System.webp)
